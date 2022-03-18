@@ -1,4 +1,4 @@
-export class Observabel {
+export class Observable {
   private observers: Function[] = [];
   private closed: boolean = false;
 

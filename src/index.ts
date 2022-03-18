@@ -1,3 +1,3 @@
-import { Observabel } from "./observerable";
+import { Observable } from "./Observable";
 
-export { Observabel };
+export { Observable };
